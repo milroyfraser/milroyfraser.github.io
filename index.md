@@ -6,7 +6,7 @@ A clean and simple way to seed the database for API testing. Inspired by Laravel
 
 _28th of December 2020_
 
-[read](url)
+[read](/net-core-web-api-acceptance-testing)
 
 -----
 
