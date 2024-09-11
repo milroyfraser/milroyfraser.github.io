@@ -332,8 +332,6 @@ $myActiveSubscriptions = Subscription::paidBy(Auth::user())->active()->get();
 
 ## Querying Payment Details
 
-`documentation will be updated soon`
-
 <br/>
 
 [Example form implementation](https://gist.github.com/milroyfraser/f0526968f6fd1a6ad09bfdbf5f3d232a)
